@@ -24,7 +24,7 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 |   7   | Thu 21 Feb 2019 | TCP Part-2  | * [[TCP part2]](https://drive.google.com/file/d/1BKxhdGByD6aLOB1BFxX3r2-xqiFNe65x/view?usp=sharing) <br> * [[IP addressing (Assoc.Prof. Anan)]](https://www.cpe.ku.ac.th/~anan/myhomepage/wp-content/uploads/2018/08/2018-12-IP-address.pdf) <br> **supplement :** <br> - Flow control : [Stop and wait](https://www.youtube.com/watch?v=3xM8ycomsfo&list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z&index=12)  ||
 |   8   | Thu 28 Feb 2019      |              |                     ||
 |   9   | Thu 7 Mar 2019     |              |                     ||
-|       |      | ***Midterm exam*** |  |                   |
+|       | 11-15 Mar 2019      | ***Midterm exam*** |  |                   |
 |   10  |      |              |                     ||
 |   11  |      |              |                     ||
 |   12  |      |              |                     ||
