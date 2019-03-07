@@ -30,7 +30,7 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 |   6   | Thu 14 Feb 2019| TCP Part-1 | * [[TCP part1]](https://drive.google.com/file/d/1FgpReapIVc5AVQlAt1sIbBnfe0iweFPo/view?usp=sharing) <br>* [[HW-2 Solution]](https://drive.google.com/file/d/1Eh8uUJxqIqyXlH-WvzxsTym5SdAsYcqp/view?usp=sharing)              |[Register mini project](https://goo.gl/forms/F4qt9ppTCgK5d2NL2) 23:59 14-Feb-2019 |
 |   7   | Thu 21 Feb 2019 | TCP Part-2  | * [[TCP part2]](https://drive.google.com/file/d/1BKxhdGByD6aLOB1BFxX3r2-xqiFNe65x/view?usp=sharing) <br> * [[IP addressing (Assoc.Prof. Anan)]](https://www.cpe.ku.ac.th/~anan/myhomepage/wp-content/uploads/2018/08/2018-12-IP-address.pdf) <br> **supplement :** <br> - Flow control : [Stop and wait](https://www.youtube.com/watch?v=3xM8ycomsfo&list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z&index=12)  ||
 |   8   | Thu 28 Feb 2019      |  Internet Layer            |   [W8-IP](https://drive.google.com/file/d/1DxsN-4viAenMZaGKZKfDFg0exEVoAPY5/view?usp=sharing)                  ||
-|   9   | Thu 7 Mar 2019     |              |                     ||
+|   9   | Thu 7 Mar 2019 (No Class)    |  งานเกษตรลุ่มน้ำโขง            |**supplements** :<br> * [Quiz 1-2](https://drive.google.com/drive/folders/1-wjyvDTQxxsaPP0c_t_pXtlJWo2e1-EA?usp=sharing)                     ||
 |       | 13 Mar 2019   9:00-12:00   | ***Midterm exam*** |  |                   |
 |   10  |      |              |                     ||
 |   11  |      |              |                     ||
