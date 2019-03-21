@@ -33,7 +33,7 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 |   8   | Thu 28 Feb 2019      |  Internet Layer            |   [W8-IP](https://drive.google.com/file/d/1DxsN-4viAenMZaGKZKfDFg0exEVoAPY5/view?usp=sharing)                  ||
 |   9   | Thu 7 Mar 2019 (No Class)    |  งานเกษตรลุ่มน้ำโขง            |**supplements** :<br> * [Quiz 1-2](https://drive.google.com/drive/folders/1-wjyvDTQxxsaPP0c_t_pXtlJWo2e1-EA?usp=sharing)                     ||
 |       | 13 Mar 2019   9:00-12:00    | ***Midterm exam*** | Flr4. EN1 401, Engineering Building | * 9:00-12:00 <br>* Close book|
-|   10  |      |              |                     ||
+|   10  | 21 Mar 2019     | 9:00-12:00  | review midterm exam  ||
 |   11  |      |              |                     ||
 |   12  |      |              |                     ||
 |   13  |      |              |                     ||
