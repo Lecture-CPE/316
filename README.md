@@ -34,7 +34,7 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 |   9   | Thu 7 Mar 2019 (No Class)    |  งานเกษตรลุ่มน้ำโขง            |**supplements** :<br> * [Quiz 1-2](https://drive.google.com/drive/folders/1-wjyvDTQxxsaPP0c_t_pXtlJWo2e1-EA?usp=sharing)                     ||
 |       | 13 Mar 2019   9:00-12:00    | ***Midterm exam*** | Flr4. EN1 401, Engineering Building | * 9:00-12:00 <br>* Close book|
 |   10  | 21 Mar 2019     | 9:00-12:00  | review midterm exam  ||
-|   11  |      |              |                     ||
+|   11  | 28 Mar 2019   9:00-12:00 | Basic Graph, Spanning Tree, Kruskal and Prim , Dijkstra algorithm  | * [CH4 Network Layer](https://drive.google.com/file/d/104LVTZ3nqx5BEmRQjM9g5TNU51gbid5U/view?usp=sharing) <br> * [Lecture](https://drive.google.com/file/d/1XsM5Ybm-dsrRZ08MMmZJCosY3NRPtxiP/view?usp=sharing) <br> * [Cayley’s formula](https://drive.google.com/file/d/1Mn_gVuOA3herFJxTDU8LpMtu5kdBIXvD/view?usp=sharing) <br> **dataset** <br> * [data.txt](w12/data.txt)                     |**Homework CH4** : <br> - P24,P26 (Hand-in) <br> **Python** :<br> * Mon 1-Apr-2019 (6:00pm) <br> * Present in-class |
 |   12  |      |              |                     ||
 |   13  |      |              |                     ||
 |   14  |      |              |                     ||
