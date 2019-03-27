@@ -1,0 +1,14 @@
+z y 14
+z t 2
+y x 6
+y v 1
+y t 4
+t v 9
+t u 2
+t s 1
+x v 1
+x w 1
+v u 1
+v w 1
+s u 4
+w u 3
