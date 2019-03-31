@@ -39,15 +39,15 @@ def setting():
  nodeR=[i[1] for i in e2]
  vertex=nodeL+nodeR
  vertex=list(set(vertex))
- edge=sorted(e2,key=lambda x: (x[2],x[1]))
+ edge=sorted(e2,key=lambda x: float(x[2]))
  return (vertex,edge)
 
 def kruskal(graph):
     for vertice in graph['vertices']:
         make_set(vertice)
     minimum_spanning_tree = list()
-    edges = graph['edges']
-    edges.sort()
+    edges = G["edges"]
+
     for edge in edges:
         vertice1, vertice2, weight = edge
         if find(vertice1) != find(vertice2):
@@ -55,11 +55,16 @@ def kruskal(graph):
             minimum_spanning_tree.append(edge)
     return minimum_spanning_tree
 
+### Starting 
 V,E = setting()
 G = {
         'vertices': V,
         'edges': E }
 
 MST=kruskal(G)
+sum=0
 for m in MST:
  print(m)
+ sum=sum+float(m[2])
+
+print("Sum distance of MST: "+str(sum))
