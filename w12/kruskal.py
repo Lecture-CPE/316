@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-from operator import itemgetter
-
 parent = dict()
 rank = dict()
 
