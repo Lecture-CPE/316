@@ -39,8 +39,10 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 |       | 13 Mar 2019   9:00-12:00    | ***Midterm exam*** | Flr4. EN1 401, Engineering Building | * 9:00-12:00 <br>* Close book|
 |   10  | 21 Mar 2019     | 9:00-12:00  | review midterm exam  ||
 |   11  | 28 Mar 2019   9:00-12:00 | Basic Graph, Spanning Tree, Kruskal and Prim , Dijkstra algorithm  | * [CH4 Network Layer](https://drive.google.com/file/d/104LVTZ3nqx5BEmRQjM9g5TNU51gbid5U/view?usp=sharing) <br> * [Lecture](https://drive.google.com/file/d/1XsM5Ybm-dsrRZ08MMmZJCosY3NRPtxiP/view?usp=sharing) <br> * [Cayley’s formula](https://drive.google.com/file/d/1Mn_gVuOA3herFJxTDU8LpMtu5kdBIXvD/view?usp=sharing)<br> * [Python book](w12/python-structure.pdf)  <br> **dataset** <br> * [data.txt](w12/data.txt)                    |**Homework CH4** : <br> - P24,P26 (Hand-in) <br> **Python** :<br> * Mon 1-Apr-2019 (6:00pm) <br> * Present in-class |
-|   12  |      |              |                     ||
-|   13  |      |              |                     ||
-|   14  |      |              |                     ||
-|   15  |      |              |                     ||
-|       |      | ***Final exam***   |                 |    |
+|   12  |4 April 2019 9:00-12:00| Prim and Dijsktra Algorithm ,Complexity Analysis |                     | |
+|   13  |11 April 2019 9:00-12:00|LAN and WLAN part1 Standard overview|                     ||
+|   14  |18 April 2019 9:00-12:00|WLAN part2 Channel Access|                     ||
+|   15  |25 April 2019 9:00-12:00|Network Security|                     ||
+|   16  |2 May 2019 9:00-12:00| Physical Layer : GNURadio |                     ||
+|   17  |9 May 2019 9:00-12:00| Mini project present|                     ||
+|18 |      | ***Final exam***   |                 |    |
