@@ -42,7 +42,7 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 |   12  |4 April 2019 9:00-12:00| Prim and Dijsktra Algorithm ,Complexity Analysis |                     | |
 |   13  |11 April 2019 9:00-12:00|LAN and WLAN part1 Standard overview|                     ||
 |   14  |18 April 2019 9:00-12:00|WLAN part2 Channel Access|                     ||
-|   15  |25 April 2019 9:00-12:00|Network Security|                     ||
+|   15  |25 April 2019 9:00-12:00|Data Link Security|                     ||
 |   16  |2 May 2019 9:00-12:00| Physical Layer : GNURadio |                     ||
 |   17  |9 May 2019 9:00-12:00| Mini project present|                     ||
 |18 |      | ***Final exam***   |                 |    |
