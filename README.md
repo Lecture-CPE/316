@@ -15,7 +15,7 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 * [Quiz and Prog (26-Feb-2019)](https://drive.google.com/file/d/1rSIzQKv2eO3RYsDJdwveYBnpk2JdeNe3/view?usp=sharing)
 
 ### Previous record
-* [<s>Attendance<s>](https://drive.google.com/file/d/1--ukamRLMpW8ouOJNWy8PT58bTlOg-EF/view?usp=sharing)
+* [<s>Attendance (28-Mar-2019)</s>](https://drive.google.com/file/d/1--ukamRLMpW8ouOJNWy8PT58bTlOg-EF/view?usp=sharing)
 * [<s>Score</s>](https://drive.google.com/file/d/1E2A_McrixvyK7GG-MrQVCZBvN7Srz5KL/view?usp=sharing)|[<s>Histogram (21-Mar-2019)</s>](https://drive.google.com/open?id=1WvE2Z358RMVBr7tFlg4Z7FcGqPukyK4R)
 * [<s>Attend-2 (11-Mar-2019)</s>](https://drive.google.com/file/d/1VHL5uWeOa8_3SDXIw1N3yDsB2GfbuI3-/view?usp=sharing)
 * [<s>Attend-2 (26-Feb-2019)</s>](https://drive.google.com/file/d/1Rq0RxnpmCfB5dWf5GpE2oNFjMLQfGWBU/view?usp=sharing)
