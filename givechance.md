@@ -14,23 +14,23 @@
 
 * ทำรายงาน 2 เรื่อง ได้คะแนนสูงสุด 50คะแนน แต่รวมแล้วไม่เกิน 51คะแนน
 
-### ห้วข้อทำรายงาน (เลือกทำ)
+### ห้วข้อทำรายงาน (เลือกหัวข้อใหญ่ที่สนใจ เลือกทำรายงานหัวข้อย่อย)
 
 #### Delay
 - ดีเลย์ Propagation, Processing, Transmission, Queueing, 
 
 #### TCP/IP
-- การวิเคราะห์ข้อมูลเครือข่ายด้วย Wireshark
-- การตรวจสอบเครือข่ายด้วย NMAP
+- การวิเคราะห์ข้อมูลเครือข่ายด้วย [Wireshark](https://www.wireshark.org)
+- การตรวจสอบเครือข่ายด้วย [NMAP](https://nmap.org)
 - การออกแบบ IP แบบ Classful และ Classless
-- การวิเคราะห์ IP version 6 ด้วย Wireshark
+- การวิเคราะห์ IP version 6 ด้วย [Wireshark](https://www.wireshark.org)
 
 #### DNS
 
 - การจดทะเบียนโดเมน (domain register) 
-- การปลอมโดเมน (domain spoofing)
-- การติดตั้ง Domain name server (Install name server)
-- ระบบ DNSSEC (dns security)
+- การปลอมโดเมน ([domain spoofing](https://www.ettercap-project.org))
+- การติดตั้ง Domain name server ([Install bind9](https://medium.com/@rachatatongpagdee/install-and-configure-dns-server-in-ubuntu-16-04-lts-โดยใช้-bind9-306844d54422))
+- ระบบ DNSSEC ([dns security](https://www.namecheap.com/support/knowledgebase/subcategory.aspx/2232/dnssec))
 
 ### วิธีส่ง
 - สร้าง account github.com
