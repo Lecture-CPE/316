@@ -10,11 +10,14 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 * [[Score](https://drive.google.com/file/d/1WvKfqFk5w2vqxsnnoKUm274F2eOsrgGh/view?usp=sharing)|[Histogram](https://drive.google.com/file/d/1ARqon-ig6iou9VjahB7VFTFG5iV3mrms/view?usp=sharing)]
 
 ## Attendance/Homework/Quiz/Programming score
-* [Attendance (19-Apr-2019)](https://drive.google.com/open?id=1ewxBlzu_YzGjR3FSmhA9U4AjQB3ha6FU)
-* [HW-3 (11-Mar-2019)](https://drive.google.com/file/d/1bELS8BTAgXGfwCrmy-AXG5ly2-arYWub/view?usp=sharing)
-* [Quiz and Prog (26-Feb-2019)](https://drive.google.com/file/d/1rSIzQKv2eO3RYsDJdwveYBnpk2JdeNe3/view?usp=sharing)
+* [Attendance (6-May-2019)](https://drive.google.com/open?id=1Eb3prwWufakvFoextp6wkwKPnkCFEJPE)
+* [HW-6 (6-May-2019)](https://drive.google.com/file/d/1YSoevRr-p0PSLwJxliMj0hjeNuUPXQ9n/view?usp=sharing)
+* [Quiz and Prog (6-May-2019)](https://drive.google.com/file/d/1413ng57hfbwZMYKj6MdDHGDOM7I4Wiaw/view?usp=sharing)
 
 ### Previous record
+* [<s>Quiz and Prog (26-Feb-2019)</s>](https://drive.google.com/file/d/1rSIzQKv2eO3RYsDJdwveYBnpk2JdeNe3/view?usp=sharing)
+* [<s>HW-3 (11-Mar-2019)</s>](https://drive.google.com/file/d/1bELS8BTAgXGfwCrmy-AXG5ly2-arYWub/view?usp=sharing)
+* [<s>Attendance (19-Apr-2019</s>)](https://drive.google.com/open?id=1ewxBlzu_YzGjR3FSmhA9U4AjQB3ha6FU)
 * [<s>Attendance (28-Mar-2019)</s>](https://drive.google.com/file/d/1--ukamRLMpW8ouOJNWy8PT58bTlOg-EF/view?usp=sharing)
 * [<s>Score</s>](https://drive.google.com/file/d/1E2A_McrixvyK7GG-MrQVCZBvN7Srz5KL/view?usp=sharing)|[<s>Histogram (21-Mar-2019)</s>](https://drive.google.com/open?id=1WvE2Z358RMVBr7tFlg4Z7FcGqPukyK4R)
 * [<s>Attend-2 (11-Mar-2019)</s>](https://drive.google.com/file/d/1VHL5uWeOa8_3SDXIw1N3yDsB2GfbuI3-/view?usp=sharing)
