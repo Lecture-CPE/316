@@ -6,8 +6,9 @@
 ## Main References: (recommended, not required)
 
 Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/Addison Wesley, 2016.
-## Midterm Score
-* [[Score](https://drive.google.com/file/d/1WvKfqFk5w2vqxsnnoKUm274F2eOsrgGh/view?usp=sharing)|[Histogram](https://drive.google.com/file/d/1ARqon-ig6iou9VjahB7VFTFG5iV3mrms/view?usp=sharing)]
+## Score
+* [[Total Score before Final Exam (7-May-2019)]](https://drive.google.com/open?id=1A-yMBHedizXzeCQhRfyl5zcf8y6acl79)
+
 
 ## Attendance/Homework/Quiz/Programming score
 * [Attendance (6-May-2019)](https://drive.google.com/open?id=1Eb3prwWufakvFoextp6wkwKPnkCFEJPE)
@@ -15,6 +16,7 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 * [Quiz and Prog (6-May-2019)](https://drive.google.com/file/d/1413ng57hfbwZMYKj6MdDHGDOM7I4Wiaw/view?usp=sharing)
 
 ### Previous record
+* [[<s>Midterm Score</s>](https://drive.google.com/file/d/1WvKfqFk5w2vqxsnnoKUm274F2eOsrgGh/view?usp=sharing)|[<s>Histogram</s>](https://drive.google.com/file/d/1ARqon-ig6iou9VjahB7VFTFG5iV3mrms/view?usp=sharing)]
 * [<s>Quiz and Prog (26-Feb-2019)</s>](https://drive.google.com/file/d/1rSIzQKv2eO3RYsDJdwveYBnpk2JdeNe3/view?usp=sharing)
 * [<s>HW-3 (11-Mar-2019)</s>](https://drive.google.com/file/d/1bELS8BTAgXGfwCrmy-AXG5ly2-arYWub/view?usp=sharing)
 * [<s>Attendance (19-Apr-2019</s>)](https://drive.google.com/open?id=1ewxBlzu_YzGjR3FSmhA9U4AjQB3ha6FU)
@@ -46,4 +48,4 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 |   12  |18 April 2019 9:00-12:00|Link Layer| * [Slide](https://drive.google.com/file/d/1PvDtXGps56wR0Vi3BBeznyi-BjMynsZq/view?usp=sharing) <br> * [CH5 Link](https://drive.google.com/file/d/1LiEUuYRFei47iDbkD3jltkzFCuC0CQKk/view?usp=sharing)                    |**Homework5 CH5** : <br> - P2,P5,P8,P12 (Hand-in) <br>**Python** : <br> * odd-parity-check.py <br> * crc-parity-check.py (crc32)|
 |   13  |25 April 2019 9:00-12:00|Link layer part-2| * [CH5-part2](https://drive.google.com/file/d/1eQ-PXP-k_AfApJYr0cGUnlWaWmLkJn0j/view?usp=sharing)<br> * [pcap](https://drive.google.com/drive/folders/19Cu2kAI5hl-tYQbPgnh_UE1DApRPZ-tX?usp=sharing)                     | **Homework6 CH5-part2** : <br> * Hand-in class (4 May 2019)|
 |   14  |4 May 2019 10:00-12:00| Mini project present|*  Mini project software with support IPv6 <br> * Slide presentation 2pages |- 167 (10:00am) <br>- 019 <br>- 027 <br>- 092 <br>- 076 <br>- 100 <br>- 175 <br>- 035 <br>- 159 <br>- 050 <br>- 118 <br>- 142 <br>- 084 <br>- 134 <br>- 126 <br>  |                   
-| |      | ***Final exam***   |                 |    |
+| | 9 May 2019 13:00-17:00     | ***Final exam***   |                 |    |
