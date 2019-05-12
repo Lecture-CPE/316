@@ -49,3 +49,13 @@ Jim Kurose, Keith Ross, ***Computer Networking: A Top Down Approach***  Pearson/
 |   14  |25 April 2019 9:00-12:00|Link layer part-2| * [CH5-part2](https://drive.google.com/file/d/1eQ-PXP-k_AfApJYr0cGUnlWaWmLkJn0j/view?usp=sharing)<br> * [pcap](https://drive.google.com/drive/folders/19Cu2kAI5hl-tYQbPgnh_UE1DApRPZ-tX?usp=sharing)                     | **Homework6 CH5-part2** : <br> * Hand-in class (4 May 2019)|
 |   15  |4 May 2019 10:00-12:00| Mini project present|*  Mini project software with support IPv6 <br> * Slide presentation 2pages |- 167 (10:00am) <br>- 019 <br>- 027 <br>- 092 <br>- 076 <br>- 100 <br>- 175 <br>- 035 <br>- 159 <br>- 050 <br>- 118 <br>- 142 <br>- 084 <br>- 134 <br>- 126 <br>  |                   
 | 16 | 9 May 2019 13:00-17:00     | ***Final exam***   |  Flr4. EN1 401, Engineering Building               |* Close book    |
+
+# Upgrade policy
+
+List of volunteers (The instructor has received as confirmed by documents).
+
+019, 027, 035, 092, 100, 118, 142, 159, 167, 175
+
+## The upgrade condition
+* Students have name in volunteers list AND 
+* Student are 1st rank for the particular grade.
