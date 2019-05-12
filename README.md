@@ -57,5 +57,5 @@ List of volunteers (The instructor has received as confirmed by documents).
 019, 027, 035, 092, 100, 118, 142, 159, 167, 175
 
 ## The upgrade condition
-* Students have name in volunteers list AND 
+* Students have name in volunteers list **AND** 
 * Student are 1st rank for the particular grade.
