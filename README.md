@@ -5,7 +5,7 @@
 
 ## Main References: (recommended, not required)
 
-**Peter L Dordal.** "An introduction to computer networks." (2017). http://intronetworks.cs.luc.edu
+**Peter L Dordal.** "An introduction to computer networks." (2019). http://intronetworks.cs.luc.edu
 
 ## Score
 
