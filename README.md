@@ -26,7 +26,16 @@
 |  3 |Thu 12 Nov 2019 (Make-up class)| Electrical and Signal  (cont)|[W3 : Electrical and Signal](https://drive.google.com/file/d/1QlhUssURDtfKr5PZDGirP5x1CLMUF4Rt/view?usp=sharing)  | [HW\#3](https://elab.cpek6.com) Fri 15 Nov 2019 17:00 |
 |  4 |Thu 21 Nov 2019| Review Homework |[W4 : Electrical and Signal](https://drive.google.com/file/d/1QlhUssURDtfKr5PZDGirP5x1CLMUF4Rt/view?usp=sharing)  |  |
 | 5 | Thu 28 Nov 2019 | Signal | [w5-signal](https://drive.google.com/file/d/199mu2kIL-XbwF4Rrkq_Zxbxv5IGCSnTJ/view?usp=sharing),[w5-media](https://drive.google.com/file/d/1OtHNacPKBMj7n9GkMW-S3fxMgJT2LXRx/view?usp=sharing) |[HW\#4](https://elab.cpek6.com) Fri 29 Nov 2019 17:00|
+| 6 | Thu 5 Dec 2019 | **Noclass** |King Bhumibol Adulyadej's Birthday Anniversary | |
+| 7 | Thu 12 Dec 2019 | Switching | ||
 | 8 |      | ***Midterm exam***   |            |* Close book    |
+| 9 |  | Switching  | ||
+| 10 |  | Data-Link Layer | ||
+| 11 |  | Error Detection and Correction | ||
+| 12 |  |NETWORK LAYER SERVICES  | ||
+| 13 |  |NETWORK LAYER PERFORMANCE | ||
+| 14 |  |IP Protocol and ADDRESSES  | ||
+| 15 |  |Transport Layer  | ||
 | 16 |      | ***Final exam***   |            |* Close book    |
 
 # Upgrade policy
