@@ -29,12 +29,12 @@
 | 6 | Thu 5 Dec 2019 | **Noclass** |King Bhumibol Adulyadej's Birthday Anniversary | |
 | 7 | Thu 12 Dec 2019 | Switching | ||
 | 8 |      | ***Midterm exam***   |            |* Close book    |
-| 9 |  | Switching  | ||
-| 10 |  | Data-Link Layer | ||
-| 11 |  | Error Detection and Correction | ||
-| 12 |  |NETWORK LAYER SERVICES  | ||
-| 13 |  |NETWORK LAYER PERFORMANCE | ||
-| 14 |  |IP Protocol and ADDRESSES  | ||
+| 9 |  | Data-Link Layer | ||
+| 10 |  | Error Detection and Correction | ||
+| 11 |  |NETWORK Layer  | ||
+| 12 |  |NETWORK Layer performance | ||
+| 13 |  |IP Protocol and addresses  | ||
+| 14 |  |Transport Layer  | ||
 | 15 |  |Transport Layer  | ||
 | 16 |      | ***Final exam***   |            |* Close book    |
 
