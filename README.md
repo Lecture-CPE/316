@@ -9,6 +9,8 @@
 
 - **Peter L Dordal.** "An introduction to computer networks." (2019). http://intronetworks.cs.luc.edu
 - **Behrouz, Forouzan** "[Data Communications and Networking 5th Edition](https://archive.org/details/Data.Communications.and.Networking.5th.Edition/page/n139)"
+### Suppliments
+- **Chaiporn Jaikaeo** "01204325 - Data Communication and Computer Networks." https://www.cpe.ku.ac.th/~cpj/204325/
 
 ## Score
 
