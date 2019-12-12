@@ -7,7 +7,8 @@
 
 ## Main References: (recommended, not required)
 
-**Peter L Dordal.** "An introduction to computer networks." (2019). http://intronetworks.cs.luc.edu
+- **Peter L Dordal.** "An introduction to computer networks." (2019). http://intronetworks.cs.luc.edu
+- **Behrouz, Forouzan** "[Data Communications and Networking 5th Edition](https://archive.org/details/Data.Communications.and.Networking.5th.Edition/page/n139)"
 
 ## Score
 
