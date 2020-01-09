@@ -32,7 +32,7 @@
 | 6 | Thu 5 Dec 2019 | **Noclass** |King Bhumibol Adulyadej's Birthday Anniversary | |
 | 7 | Thu 12 Dec 2019 | Transmission and Multiplexing | [w7-1 : QAM](https://drive.google.com/file/d/14IjRHXm3jIMid-F7Kr1zc0fvdzst-DJF/view?usp=sharing) <br>  ***Suppliment*** <br> - [Digital/Analog Tranmission](https://drive.google.com/file/d/1wBYYhjb6FfQV-6IeSFi9VLDQ6YLXGi-M/view?usp=sharing) |[HW\#5](https://elab.cpek6.com) Fri 13 Dec 2019 17:00|
 | 8 |      | ***Midterm exam***   |            |* Close book    |
-| 9 |  | Data-Link Layer | ||
+| 9 |  | Data-Link Layer |Internet Access | **Slide** : <br> - [Internet Access](https://drive.google.com/file/d/1NoBeyy3R9pb70DnE1GTo1CffsVg9i2Nu/view?usp=sharing) <br> -[Ethernet](https://drive.google.com/file/d/1iiAQO5f9oLu0qEGJWskjawFbA-QmfVPb/view?usp=sharing)|
 | 10 |  | Error Detection and Correction | ||
 | 11 |  |NETWORK Layer  | ||
 | 12 |  |NETWORK Layer performance | ||
