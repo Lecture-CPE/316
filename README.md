@@ -33,7 +33,8 @@
 | 7 | Thu 12 Dec 2019 | Transmission and Multiplexing | [w7-1 : QAM](https://drive.google.com/file/d/14IjRHXm3jIMid-F7Kr1zc0fvdzst-DJF/view?usp=sharing) <br>  ***Suppliment*** <br> - [Digital/Analog Tranmission](https://drive.google.com/file/d/1wBYYhjb6FfQV-6IeSFi9VLDQ6YLXGi-M/view?usp=sharing) |[HW\#5](https://elab.cpek6.com) Fri 13 Dec 2019 17:00|
 | 8 |      | ***Midterm exam***   |            |* Close book    |
 | 9 | Thu 16 Jan 2020 | Internet Access <br> Data-Link Layer |**Slide** : <br> - [Internet Access](https://drive.google.com/file/d/1NoBeyy3R9pb70DnE1GTo1CffsVg9i2Nu/view?usp=sharing) <br> -[Ethernet](https://drive.google.com/file/d/1iiAQO5f9oLu0qEGJWskjawFbA-QmfVPb/view?usp=sharing)|[HW\#6](https://elab.cpek6.com) Fri 17 Dec 2019 17:00 |
-|10| Thu 23 Jan 2020| Link Layer (Ethernet) | **Slide**:<br> [Ethernet](https://drive.google.com/file/d/1Q1w_eJSvfXBO4gbtb22Jo4VqOT8JLXT7/view?usp=sharing) | [HW\#7](https://elab.cpek6.com) Fri 24 Jan 2020 |
+|10| Thu 23 Jan 2020 (งดคลาส ไฟดับ)| <s>Link Layer (Ethernet)</s> | **Slide**:<br> [Ethernet](https://drive.google.com/file/d/1Q1w_eJSvfXBO4gbtb22Jo4VqOT8JLXT7/view?usp=sharing) |  |
+|10| Mon 27 Jan 2020 (ชดเชย)| Link Layer (Ethernet) | **Slide**:<br> [Ethernet](https://drive.google.com/file/d/1Q1w_eJSvfXBO4gbtb22Jo4VqOT8JLXT7/view?usp=sharing) |  |
 | 10 |  | Error Detection and Correction | ||
 | 11 |  |NETWORK Layer  | ||
 | 12 |  |NETWORK Layer performance | ||
