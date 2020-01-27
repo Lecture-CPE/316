@@ -34,7 +34,7 @@
 | 8 |      | ***Midterm exam***   |            |* Close book    |
 | 9 | Thu 16 Jan 2020 | Internet Access <br> Data-Link Layer |**Slide** : <br> - [Internet Access](https://drive.google.com/file/d/1NoBeyy3R9pb70DnE1GTo1CffsVg9i2Nu/view?usp=sharing)|[HW\#6](https://elab.cpek6.com) Fri 17 Dec 2019 17:00 |
 |10| Thu 23 Jan 2020 (งดคลาส ไฟดับ)| <s>Link Layer (Ethernet)</s> | **Slide**:<br> [Ethernet](https://drive.google.com/open?id=1iiAQO5f9oLu0qEGJWskjawFbA-QmfVPb) | |
-|10| Mon 27 Jan 2020 (ชดเชย)| Link Layer (Ethernet) | **Slide**:<br> [Ethernet](https://drive.google.com/file/d/1Q1w_eJSvfXBO4gbtb22Jo4VqOT8JLXT7/view?usp=sharing) |[HW\#7] เขียนโปรแกรม C++ อ่านไฟล์ <br>- [อาร์ม](https://drive.google.com/file/d/1JZqmBPaTXAF7-Nz2Wn1ARD7gYTUXJI14/view?usp=sharing)<br>-[แป้ง](https://drive.google.com/open?id=121iI6cXxZf1EoS92qSHA4JbS2jhKtKI6)<br>-[เติ้ล](https://drive.google.com/open?id=13-GBfU3P0-_aWp3Depm2SV1Np8mxw7-B)  |
+|10| Mon 27 Jan 2020 (ชดเชย)| Link Layer (Ethernet) | **Slide**:<br> [Ethernet](https://drive.google.com/open?id=1iiAQO5f9oLu0qEGJWskjawFbA-QmfVPb) |[HW\#7] เขียนโปรแกรม C++ อ่านไฟล์ <br>- [อาร์ม](https://drive.google.com/open?id=1JZqmBPaTXAF7-Nz2Wn1ARD7gYTUXJI14)<br>-[แป้ง](https://drive.google.com/open?id=121iI6cXxZf1EoS92qSHA4JbS2jhKtKI6)<br>-[เติ้ล](https://drive.google.com/open?id=13-GBfU3P0-_aWp3Depm2SV1Np8mxw7-B)  |
 | 10 |  | Error Detection and Correction | ||
 | 11 |  |NETWORK Layer  | ||
 | 12 |  |NETWORK Layer performance | ||
