@@ -41,7 +41,7 @@
 | 13 |  |IP Protocol and addresses  | ||
 | 14 |  |Transport Layer  | ||
 | 15 |  |Transport Layer  | ||
-| 16 |      | ***Final exam***   |            |* Close book    |
+| 16 | Thu 27 Feb 2020  (9:00-11:00)   | ***Final exam***   |            |* Close book    |
 
 # Upgrade policy
 
