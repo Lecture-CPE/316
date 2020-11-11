@@ -7,7 +7,7 @@
 
 ## Main References: (recommended, not required)
 
-- **Peter L Dordal.** "An introduction to computer networks." (2019). http://intronetworks.cs.luc.edu
+- **Larry L. Peterson and Bruce Davie**. [Computer Networks: A Systems Approach](https://github.com/SystemsApproach/book). [[pdf](https://github.com/SystemsApproach/book/releases/download/v6.1/book.pdf),[epub](https://github.com/SystemsApproach/book/releases/download/v6.1/ComputerNetworksASystemsApproach.epub)] (github/2020)
 - **Behrouz, Forouzan** "[Data Communications and Networking 5th Edition](https://archive.org/details/Data.Communications.and.Networking.5th.Edition/page/n139)"
 ### Suppliments
 - **Chaiporn Jaikaeo** "01204325 - Data Communication and Computer Networks." https://www.cpe.ku.ac.th/~cpj/204325/
