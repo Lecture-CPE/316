@@ -24,7 +24,7 @@
 
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
-|  1 |Nov 2020| Orientation and Intro to computer networks| [[course description]](https://drive.google.com/file/d/15zITvF-pTJvqjmo9C2vqQuvVGervGCDN/view?usp=sharing), [[Course Introduction]](https://drive.google.com/file/d/1PmCSjBjG3JJjYwKDcTFe4ezYL8kaDO8n/view?usp=sharing), [[Networks Evolution]]
+|  1 |Nov 2020| Orientation and Intro to computer networks| [[course description]](31110316-description.pdf), [[Course Introduction]](https://drive.google.com/file/d/1PmCSjBjG3JJjYwKDcTFe4ezYL8kaDO8n/view?usp=sharing), [[Networks Evolution]]
 | 8 |      | ***Midterm exam***   |            |* Close book    |
 | 16 | Feb 2021  (9:00-11:00)   | ***Final exam***   |            |* Close book    |
 
