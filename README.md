@@ -19,7 +19,7 @@
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
 |  0 |20-Nov-2020 <br>(9am-12pm)| **No class**  |วันหยุดจากมติ ครม. ||
-|  1 |27-Nov-2020 <br>(9am-12pm)| Orientation and Intro to computer networks| - [Course description](31110316-description.pdf)<br> -[Course Introduction](https://github.com/Lecture-CPE/316/raw/2563-2/w1/w1.1-CourseIntroduction.pdf) <br> -[Networks Evolution](https://github.com/Lecture-CPE/316/raw/2563-2/w1/w1.3-Network%20Evolution.pdf) |Mon 30-Nov (16:00) |
+|  1 |27-Nov-2020 <br>(9am-12pm)| Orientation and Intro to computer networks| - [W1.1 Description](31110316-description.pdf)<br> - [W1.2 Introduction](https://github.com/Lecture-CPE/316/raw/2563-2/w1/w1.1-CourseIntroduction.pdf) <br> - [W1.3 Network Engineer career](https://github.com/Lecture-CPE/316/raw/2563-2/w1/w1.2-Career.pdf) <br> - [W1.4 Networks Evolution](https://github.com/Lecture-CPE/316/raw/2563-2/w1/w1.3-Network%20Evolution.pdf) |Mon 30-Nov (16:00) |
 |  2 |4-Dec-2020 <br>(9am-12pm)| Electrical and Signal |  |Mon 7-Dec (16:00)|
 |  3 |11-Dec-2020 <br>(9am-12pm)| **No class**  |วันหยุดชดเชย ||
 | 8 |      | ***Midterm exam***   |            |* Close book    |
