@@ -23,6 +23,7 @@
 |  2 |1-Dec-2020 <br>(1pm-4pm)| Introduction to Computer networks |[W1.4  Computer Networks Evolution](https://github.com/Lecture-CPE/316/raw/2563-2/w1/w1.4-Network%20Evolution.pdf) ||
 |  3 |4-Dec-2020 <br>(9am-12pm)| Electrical and Signal | - [W2.1 Layering](w2/w2.1-Layering.pdf) <br> - [W2.2 Electrical and Signal](w2/w2.2-Physical-Layer.pdf)  |Mon 7-Dec (16:00)|
 |  4 |11-Dec-2020 <br>(9am-12pm)| **No class**  |วันหยุดชดเชย ||
+|  5 |18-Dec-2020 <br>(1:30pm-4:30pm)| Physical Layer  | [W2.2 Electrical and Signal](w2/w2.2-Physical-Layer.pdf)  |elab : [NWK-LEC-03](https://elab.npu.world) |
 | 8 |      | ***Midterm exam***   |            |* Close book    |
 | 16 | Feb 2021  (9:00-11:00)   | ***Final exam***   |            |* Close book    |
 
